@@ -6,6 +6,6 @@ objective: create dated local files with processed text data from news articles 
 
 #clean news headlines
 
-#filter pandemic news
+#filter pandemic news headlines
 
 #clean pandemic news articles
