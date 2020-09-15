@@ -1,6 +1,6 @@
 # pandemic-news
 
-objective: create local files with processed text data from news articles on the [cnn website] (https://lite.cnn.com/en) related to pandemic 
+objective: create local files with processed text data from news articles on the [cnn website](https://lite.cnn.com/en) related to pandemic 
 
 Tasks to achieve this objective:
 
