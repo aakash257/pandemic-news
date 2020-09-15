@@ -2,13 +2,13 @@
 
 objective: create dated local files with processed text data from news articles on the cnn website (https://lite.cnn.com/en) related to pandemic 
 
-#pull news articles from cnn lite website
+## pull news articles from cnn lite website
 
-#clean news headlines
+## clean news headlines
 
-#filter pandemic news headlines
+## filter pandemic news headlines
 
-#clean pandemic news articles
+## clean pandemic news articles
 
 Steps to run this tool:
 #1. download the python files in this repository in a folder
