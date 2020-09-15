@@ -6,6 +6,7 @@ objective: create local files with processed text data from news articles on the
 - clean news headlines
 - filter pandemic news headlines
 - clean pandemic news articles
+- save cleaned pandemic news articles in .txt format in a folder
 
 Steps to run this tool:
 
