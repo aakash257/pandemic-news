@@ -16,4 +16,4 @@ Steps to run this tool:
 2. create pandemic_news_articles folder within this folder
 3. run main.py on Python 3.5 to automatically download cleaned pandemic news articles in the pandemic_news_articles folder 
 
-See [this](https://www.geeksforgeeks.org/how-to-run-a-python-script/) for running main_script.py from command prompt
+See [this](https://www.geeksforgeeks.org/how-to-run-a-python-script/) for running main.py from command prompt
